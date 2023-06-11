@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#mainContainer{
+    display: flex;
+    justify-content: center;
+}
+
+
+#image{
+    width: 480px;
+    height: 100vh;
+}
+
+#heading{
+    padding: 60px;
+}
+
+#form{
+    padding: 60px;
+}
